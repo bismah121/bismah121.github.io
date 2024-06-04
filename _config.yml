@@ -3,6 +3,14 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 title: Bismah
-description: Contact me at "email address"
+description: Contact me at bismah_rizwan (at) mines.edu
+avatar: /assets/me.jpg
+subscribe: false
 author: Bismah Rizwan
 location: Islamabad, PK
+skin: midnight
+social:
+  name: Bismah Rizwan
+  links:
+    - https://linkedin.com/in/bismah-rizwan/
+    - https://bismah121.github.io/assets/resume.pdf
