@@ -1,1 +1,4 @@
+---
+layout: default
+---
 ### Undergraduate Projects
