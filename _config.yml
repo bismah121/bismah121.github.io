@@ -16,7 +16,6 @@ social:
     - https://linkedin.com/in/bismah-rizwan/
     - https://bismah121.github.io/assets/resume.pdf
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/
+navigation:
+  links:
+    - bismah121.github.io/projects.md
