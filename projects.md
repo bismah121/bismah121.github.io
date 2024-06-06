@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: /projects
 nav: true
 ---
 ### Undergraduate Projects
