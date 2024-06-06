@@ -19,3 +19,4 @@ social:
 collections:
   projects:
     output: true
+    permalink: /projects/
