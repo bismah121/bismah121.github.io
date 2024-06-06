@@ -15,3 +15,7 @@ social:
   links:
     - https://linkedin.com/in/bismah-rizwan/
     - https://bismah121.github.io/assets/resume.pdf
+
+collections:
+  projects:
+    output: true
