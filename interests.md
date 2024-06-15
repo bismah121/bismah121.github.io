@@ -13,7 +13,7 @@ I only play indie games. My favorite game of all time is **Hollow Knight**. Here
 ![HK](/assets/hk.jpg)
 
 Speaking of indie games, they got me into pixel art as well, which I'm not actively engaging in at the moment, but here is one of my best works:
-![pixel](/assets/pixel.jpg)
+![pixel](/assets/pixel.png)
 
 I love reading classics and poetry, and my favorite poet is **Rainer Maria Rilke**. You can find what I'm reading [here](https://www.goodreads.com/user/show/120717191-bismah){:target="_blank"}. If I had to recommend one book to anyone, it would be [Letters to a Young Poet](https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet){:target="_blank"}.
 
