@@ -11,6 +11,7 @@ Currently, I am trying to teach myself how to DJ, and looking into buying my fir
 
 I only play indie games. My favorite game of all time is **Hollow Knight**. Here's some really cool fan art:
 ![HK](/assets/hk.jpg)
+
 Speaking of indie games, they got me into pixel art as well, which I'm not actively engaging in at the moment, but here is one of my best works:
 ![pixel](/assets/pixel.jpg)
 
