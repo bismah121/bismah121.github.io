@@ -9,6 +9,7 @@ title: Writing Portfolio
 - Satire Piece: [An Unfortunately Fortunate Day at LUMS](https://drive.google.com/file/d/1R_N9sPBgWbOV6m1q_ItSX9HopoQb1Dou/view){:target="_blank"}
 
 ### Creative Work
+- Personal Essays: [My Substack](https://bismahr.substack.com/){:target="_blank"}
 - Email Subscription Service (focused on wellbeing): [Purple Sunflower](https://purplesunflowerarchive.wordpress.com/){:target="_blank"}; discontinued
 - Short Stories and Pixel Art: [Celestial Hysteria](https://celestialhysteria.blogspot.com/){:target="_blank"}
 - [Anime Analysis: Princess Mononoke](https://drive.google.com/file/d/1RcaLjWZPcnL-KJHiDPxaYBsQTfFgYQnr/view){:target="_blank"}
