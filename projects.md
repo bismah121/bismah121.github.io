@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+### Graduate Course Projects
+- PHGN 519: Fundamentals of Quantum Information -- [Simulating a CZ gate on a Rydberg based Quantum Computer](https://drive.google.com/file/d/1COKe6jYJEDeAWXQ5zuAUS6Evx8w1LnEP/view){:target="_blank"}
+  * We had two goals for this project: first, to demonstrate an understanding of Shor’s algorithm, and second, to utilize the 3-level Hamiltonian to simulate a pulse 5-CZ gate on a Rydberg atom array, a necessary gate for implementing Shor’s algorithm.
+
 ### Undergraduate Research Projects
 - Senior Year Thesis: [Quantum Sensing for the Ohmic Quantum Reservoir](https://drive.google.com/file/d/1JQ-EtKtqnRoUv-jF19-RqebTHTVr4iav/view){:target="_blank"} (Supervisor: [Dr. Adam Zaman Chaudhry](https://scholar.google.com.pk/citations?user=RNBPLXwAAAAJ&hl=en){:target="_blank"})
   * **Abstract:** Our primary area of interest will be understanding the basics of quantum sensing and metrology, and how to use these techniques to extract information embedded in the spectral density function, for a complex ohmic reservoir. We want to extract this information because it is one of the key steps in preventing quantum decoherence, and increasing the precision of our measurements. However, coupling a quantum sensor to the reservoir makes the dynamics non-unitary, which degrades the quantum resources. We are looking to find a mechanism that prevents this degradation, and allows us to reclaim our resources, specifically, the encoding time t, and number of qubits N. Some preliminaries introduced will be quantum Fisher information, which tells us that we can surpass the shot noise limit, estimating the parameters of spectral density functions belonging to ohmic families, along with an overview of approaches already used to enhance precision in quantum measurement.
